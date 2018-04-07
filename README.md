@@ -1,2 +1,3 @@
 # OST
-OST Git demo details
+OST Demo with Git System
+We can host a website
